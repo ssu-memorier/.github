@@ -74,17 +74,20 @@
 
 코드 저장소는 Github, 컨테이너 배포 & 관리에는 클라우드 파운더리를 사용합니다. 
 
-## FE
-### gomguk-viewer-fe
-곰국 뷰어의 클라이언트 영역에 대한 레포입니다.
-https://github.com/ssu-memorier/gomguk-viewer-fe
+## FE 링크
+### gomguk-viewer-fe  
+곰국 뷰어의 클라이언트 영역에 대한 레포입니다.   
+https://github.com/ssu-memorier/gomguk-viewer-fe  
 
-## BE
-### gomguk_webserver
-https://github.com/ssu-memorier/gomguk_webserver
+## BE 링크
+### gomguk_webserver  
+곰국 뷰어의 웹 호스팅 서비스 & 인증 서비스를 위한 레포입니다.    
+https://github.com/ssu-memorier/gomguk_webserver  
 
-### S3-RestAPI
-https://github.com/ssu-memorier/S3-RestAPI
+### S3-RestAPI  
+곰국 뷰어의 스토리지 서비스 레포입니다.  
+https://github.com/ssu-memorier/S3-RestAPI  
 
-### translate-api
-https://github.com/ssu-memorier/translate-api
+### translate-api  
+곰국 뷰어의 번역 서비스 레포입니다.  
+https://github.com/ssu-memorier/translate-api  
