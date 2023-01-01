@@ -1,7 +1,8 @@
 # 곰국 뷰어
 대학생들을 위한 논문 전용 PDF Viewer 입니다. 논문을 읽을 때 사용하는 여러 가지 툴들을 종합하여 제공하여 논문 읽기 경험을 개선하는 것을 목표로 두고 있습니다.
 
-소개 PPT: https://github.com/ssu-memorier/.github/blob/main/profile/gomguk-viewer/%EA%B3%B5%EB%AA%A8%EC%A0%84%20%EB%B3%B8%EC%84%A0%20%EB%B0%9C%ED%91%9C%20PPT.pdf
+본 서비스는 제 6회 개방형 클라우드 플랫폼 기반 서비스 개발 아이디어 공모전 출품작입니다.
+소개 PPT: [공모전 본선 발표](https://github.com/ssu-memorier/.github/blob/main/profile/gomguk-viewer/%EA%B3%B5%EB%AA%A8%EC%A0%84%20%EB%B3%B8%EC%84%A0%20%EB%B0%9C%ED%91%9C%20PPT.pdf)
 
 소개 영상: [![제목 텍스트](썸네일 이미지)](유튜브 링크)
 
