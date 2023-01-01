@@ -6,7 +6,7 @@
 
 소개 PPT: [공모전 본선 발표](https://github.com/ssu-memorier/.github/blob/main/profile/gomguk-viewer/%EA%B3%B5%EB%AA%A8%EC%A0%84%20%EB%B3%B8%EC%84%A0%20%EB%B0%9C%ED%91%9C%20PPT.pdf)
 
-소개 영상: [![제목 텍스트](썸네일 이미지)](유튜브 링크)
+소개 영상: [![소개 영상 유튜브]()](https://youtu.be/XwXoHRqTsb0)
 
 
 ## 왜 이것을 만드는가?
