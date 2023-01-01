@@ -3,6 +3,7 @@
 
 본 서비스는 제 6회 개방형 클라우드 플랫폼 기반 서비스 개발 아이디어 공모전 출품작입니다.
 
+데모: https://gomguk.paas-ta.org/  
 
 소개 PPT: [공모전 본선 발표](https://github.com/ssu-memorier/.github/blob/main/profile/gomguk-viewer/%EA%B3%B5%EB%AA%A8%EC%A0%84%20%EB%B3%B8%EC%84%A0%20%EB%B0%9C%ED%91%9C%20PPT.pdf)
 
